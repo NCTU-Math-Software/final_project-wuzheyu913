@@ -11,4 +11,6 @@
 Example:
 
     INPUT: find_TopTenDigits(10)
-    OUTPUT: 405071317
+    OUTPUT: 
+    前十位數字 = 
+     0     4     0     5     0     7     1     3     1     7
