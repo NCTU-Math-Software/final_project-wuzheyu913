@@ -32,6 +32,13 @@ function find_TopTenDigits(N)
             sum_all = rem(sum_all,10^10);       
         end
     end
+
+    for ii = 0:9
+        sum_final(ii+1) = mod(fix((sum_all/10^ii)),10);
+    end
+    
+    answer = fliplr(sum_final);
+
     disp('前十位數字 = ')                       
-    disp(num2str(sum_all));                     % 輸出答案
+    disp(answer);                     % 輸出答案
 end
