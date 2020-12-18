@@ -1,5 +1,5 @@
 # final_project-wuzheyu913
-PROJECT16
+
 找出n^n的加總後的小數點前十位數字, n=1,2,...,N
 
 說明:
