@@ -1,4 +1,4 @@
-# final_project-wuzheyu913
+# n^n的級數和
 
 找出n^n的加總後的小數點前十位數字, n=1,2,...,N
 
