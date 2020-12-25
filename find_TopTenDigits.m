@@ -39,6 +39,6 @@ function find_TopTenDigits(N)
     
     answer = fliplr(sum_final);
 
-    disp('前十位數字 = ')                       
+    disp('前十位數字(位數由大到小) = ')                       
     disp(answer);                     % 輸出答案
 end
