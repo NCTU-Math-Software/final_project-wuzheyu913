@@ -12,7 +12,7 @@ Example:
 
     INPUT: find_TopTenDigits(10)
     OUTPUT: 
-    前十位數字 = 
+    前十位數字(位數由大到小) = 
      0     4     0     5     0     7     1     3     1     7
      
 做法: 
